@@ -1,0 +1,94 @@
+.mainsuggestion{
+    position: absolute;
+    top: 90px;
+    left: 290px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.all{
+    position: absolute;
+    left: 20px;
+    border: 2px solid white;
+    padding: 10px;
+    width: 40px;
+    text-align: center;
+    border-radius: 22px ;
+    color: black;
+    background-color: rgb(226, 226, 226);
+}
+.logarithm{
+    position: absolute;
+    left: 100px;
+    border: 2px solid rgb(129, 126, 126);
+    padding: 10px;
+    width: 80px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(97, 95, 95);
+  
+}
+.CokeStudio{
+    position: absolute;
+    left: 220px;
+    border: 2px solid rgb(129, 126, 126);
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(97, 95, 95);
+}
+.ux{
+    position: absolute;
+    left: 360px;
+    border: 2px solid rgb(129, 126, 126);
+    padding: 10px;
+    width: 50px;
+    text-align: center;
+    border-radius: 34px;
+    background-color: rgb(97, 95, 95);
+}
+.iphone16{
+    position: absolute;
+    left: 450px;
+    border: 2px solid rgb(129, 126, 126);
+    padding: 10px;
+    width: 90px;
+    text-align: center;
+    border-radius: 34px;
+    background-color: rgb(97, 95, 95);
+}
+.webdevelopment{
+    position: absolute;
+    left: 580px;
+    border: 2px solid rgb(129, 126, 126);
+    padding: 10px;
+    width: 160px;
+    text-align: center;
+    border-radius: 34px;
+    background-color: rgb(97, 95, 95);
+}
+.Pakistanidramas{
+    position: absolute;
+    left: 780px;
+    border: 2px solid rgb(129, 126, 126);
+    padding: 10px;
+    width: 160px;
+    text-align: center;
+    border-radius: 34px;
+    background-color: rgb(97, 95, 95);
+}
+.Greaterimg{
+    position: absolute;
+    left: 980px;
+    top: 13px;
+    width: 17px;
+}
+.hr4{
+    left: 310px;
+    position: absolute;
+    border: none;
+    width: 990px;
+    top: 140px;
+    border-top: 0.5px solid #aca9a9; 
+    background-color: transparent; 
+}

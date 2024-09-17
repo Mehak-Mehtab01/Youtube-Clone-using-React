@@ -1,0 +1,366 @@
+
+.logos{
+    background-color:#3f3939;
+    width: 290px;
+    height: 900px;
+    position: fixed;
+}
+.menu{
+   width: 25px;
+   margin-left: 25px;
+position: absolute;
+top: 10px;
+   
+}
+.youtube{
+    width: 50px;
+   position: absolute; 
+     left: 80px;
+    
+}
+
+.youtubeh{
+    position: absolute; 
+     left: 130px;
+     top: 15px;
+     font-size: 22px;
+     font-family:Arial, Helvetica, sans-serif;
+}
+.firstRow{
+    position: absolute;
+    top: 30px;
+}
+.home{
+    display: flex;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+    
+}
+
+
+.homeimg{
+    width: 25px;
+    
+}
+.homeHead{
+    position: absolute;
+    left: 50px;
+   font-size: 20px;
+   top: 5px;
+   
+}
+.explore{
+    display: flex;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+}
+.explimg{
+    width: 25px;
+   
+}
+.exploreHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+}
+.short{
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 70px;
+}
+.shortimg{
+    width: 25px;
+   
+}
+.shortHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+}
+.subscriptions{
+    display: flex;
+    position: absolute;
+    top: 170px;
+    left: 70px;
+}
+.subscripimg{
+    width: 25px;
+   
+}
+.subscriptionsHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    
+}
+.hr1{
+    width: 250px;
+    position: absolute;
+    border: none;
+    top: 220px;
+    border-top: 0.5px solid #aca9a9; 
+    background-color: transparent; 
+}
+.secondRow{
+    position: absolute;
+    top: 60px;
+}
+.library{
+    display: flex;
+    position: absolute;
+    top: 180px;
+    left: 70px;
+}
+.libraryimg{
+    width: 25px;
+   
+}
+.libraryHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+}
+.history{
+    display: flex;
+    position: absolute;
+    top: 220px;
+    left: 70px;
+}
+.historyimg{
+    width: 25px;
+   
+}
+.historyHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+}
+.Video{
+    display: flex;
+    position:absolute;
+    top: 260px;
+    left: 70px; ;
+}
+.Videoimg{
+    width: 25px;
+   
+}
+.VideoHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+}
+.Watch{
+    display: flex;
+    position: absolute;
+    top: 300px;
+    left: 70px;
+}
+.Watchimg{
+    width: 25px;
+   
+}
+.WatchHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+}
+.Liked{
+    display: flex;
+    position: absolute;
+    top: 340px;
+    left: 70px;
+}
+.Likedimg{
+    width: 25px;
+   
+}
+.LikedHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+}
+.More{
+    display: flex;
+    position: absolute;
+    top: 380px;
+    left: 70px;
+    
+}
+.Moreimg{
+    width: 25px;
+    position: absolute;
+    top: 5px;
+   
+}
+.MoreHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}
+.hr2{
+    width: 250px;
+    position: absolute;
+    border: none;
+    top: 490px;
+    border-top: 0.5px solid #aca9a9; 
+    background-color: transparent; 
+}
+.thirdRow{
+    position: absolute;
+    top: 90px;
+}
+.headingss{
+    position: absolute;
+    top: 420px;
+    left: 50px;
+}
+.Code{
+    display: flex;
+    position: absolute;
+    top: 460px;
+    left: 70px;
+    
+}
+.Codeimg{
+    width: 25px;
+    position: absolute;
+   
+}
+.CodeHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}
+.Figma{
+    display: flex;
+    position: absolute;
+    top: 500px;
+    left: 70px;
+    
+}
+.Figmaimg{
+    width: 25px;
+    position: absolute;
+   
+}
+.FigmaHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}
+.Aka{
+    display: flex;
+    position: absolute;
+    top: 540px;
+    left: 70px;
+    
+}
+.Akaimg{
+    width: 25px;
+    position: absolute;
+   
+}
+.AkaHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}
+.Evalution{
+    display: flex;
+    position: absolute;
+    top: 580px;
+    left: 70px;
+    
+}
+.Evalutionimg{
+    width: 35px;
+    position: absolute;
+    top: 5px;
+   
+}
+.EvalutionHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}
+.Beast{
+    display: flex;
+    position: absolute;
+    top: 620px;
+    left: 70px;
+    
+}
+.Beastimg{
+    width: 35px;
+    position: absolute;
+    top: 5px;
+   
+}
+.BeastHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}
+.Green{
+    display: flex;
+    position: absolute;
+    top: 660px;
+    left: 70px;
+    
+}
+.Greenimg{
+    width: 35px;
+    position: absolute;
+    top: 5px;
+   
+}
+.GreenHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}
+.WsCube{
+    display: flex;
+    position: absolute;
+    top: 700px;
+    left: 70px;
+    
+}
+.WsCubeimg{
+    width: 35px;
+    position: absolute;
+    top: 5px;
+   
+}
+.WsCubeHead{
+    position: absolute;
+    left: 50px;
+    font-size: 20px;
+    top: 5px;
+   
+}

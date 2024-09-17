@@ -1,0 +1,73 @@
+nav{
+    position: absolute;
+   left: 290px;
+}
+.nav{
+    display: flex;
+    top: 20px;
+}
+.searchbar{
+ position: absolute;
+ left: 120px;
+ top: 20px;
+ height: 40px;
+ width: 400px;
+ background-color: rgb(54, 54, 54);
+ border: 2px solid rgb(129, 128, 128);
+ border-right: none;
+ text-align:justify;
+}
+.imgdiv{
+    width: 60px;
+    background-color: rgb(78, 77, 77);
+    height: 45px;
+    position: absolute;
+    top: 19px;
+    left: 500px;
+}
+.searchimg{
+width: 30px;
+position: absolute;
+left: 14px;
+top: 8px;
+}
+.Micimg{
+    width: 30px;
+    position: absolute;
+    left: 70px;
+    top: 10px;
+    }
+    .Createimg{
+        width: 25px;
+        position: absolute;
+        left: 280px;
+        top: 5px;
+        }
+        .Dotmenuimg{
+            width: 25px;
+            position: absolute;
+            left: 330px;
+            top: 5px;
+        }
+        
+        .Bellimg{
+            width: 25px;
+            position: absolute;
+            left: 380px;
+            top: 5px;
+        }
+        .Womanimg{
+            width: 30px;
+            position: absolute;
+            left: 450px;
+            top: 5px;
+        }
+        .hr3{
+            left: 310px;
+            position: absolute;
+            border: none;
+            width: 990px;
+            top: 80px;
+            border-top: 0.5px solid #aca9a9; 
+            background-color: transparent; 
+        }
